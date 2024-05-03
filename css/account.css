@@ -1,0 +1,62 @@
+:root {
+  --colorcb: #115490;
+  --colorbp: #000000;
+  --colorft: #2C7AF0;
+}
+
+.div-title-main {
+  align-items: center;
+  margin-top: 12px;
+}
+
+.div-title-main > h1 {
+  color: var(--colorcb);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  padding: 3px;
+  text-align: center;
+}
+
+.div-title-main > p {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  padding: 10px;
+  font-size: 20px;
+  color: var(--colorcb);
+}
+
+/*form settings*/
+form {
+  margin-left: 25px;
+  height: 100%;
+  margin-top: -15px;
+}
+
+input {
+  display: block;
+  padding-top: 15px;
+  width: 50%;
+  box-shadow: 1px 0.5px 5px 1.2px var(--colorGg);
+  border-color: var(---colorft);
+  border-radius: 5px;
+  border: none;
+  text-indent: 10px;
+  outline: none;
+}
+
+label > p {
+  text-align: left;
+  padding-top: 7px;
+  color: var(--colorcb);
+  margin: 4px;
+}
+
+/*image settings */
+.imagem {
+  width: 10%;
+  height: 100%;
+}
+
+a > img {
+  width: 140px;
+  height: 100px;
+}/*# sourceMappingURL=account.css.map */

@@ -1,0 +1,31 @@
+:root {
+  --colorRr: #D21515;
+  --colorBr: #FFF5F5;
+  --colorp2: #000000;
+}
+
+/*settings section*/
+.contentone_div_class {
+  margin: auto;
+  display: block;
+}
+
+.contentone_div_class > h1 {
+  text-align: center;
+  margin-top: 15px;
+  text-align: center;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.contentone_div_class > p {
+  font-size: 19px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  margin-top: 15px;
+  margin: 10px;
+}
+
+a > img {
+  width: 140px;
+  height: 100px;
+}/*# sourceMappingURL=about.css.map */

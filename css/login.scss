@@ -1,0 +1,60 @@
+:root {
+    --colorBb: #2C7AF0;
+    --colorBr: #B21313;
+    --colorBg: #D9D9D9;
+    --colorBB: #8AAFD0;
+    --colorBp: #000;
+    --colorGg: #b4b1b1;
+    --colorGb: #115490;
+  }
+
+
+.text-first-div > h1 {
+    color: var(--colorGb);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    padding: 3px;
+    text-align: center;
+}
+
+.text-first-div > p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 10px;
+    font-size: 20px;
+    color: var(--colorcp);
+}
+
+.form-div > form{
+    margin-left: 440px;
+    height: 100%;
+    margin-top: -15px;
+    padding-top: 85px;
+    align-items: center;
+    justify-content: center;
+    display: block;
+    
+}
+
+.form-div {
+    align-items: center;
+    justify-content: center;
+    display: block;  
+}
+
+
+
+label{
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.btn-login{
+   margin-left: -30px;
+
+}
+
+
+
+
+
